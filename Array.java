@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class Array {
 
+void m1(){
+
+	System.out.println("hbjxchjbxchj v");
+}
+
 
 	public static void main(String[] args) {
 
