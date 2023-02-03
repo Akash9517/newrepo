@@ -10,7 +10,7 @@ public class Array {
 		Scanner s= new Scanner(System.in);
 
 		String arrstr[];
-		arrstr=new String[5] ;
+		arrstr=new   String[5] ;
 
 
 		int arr[];
@@ -20,7 +20,7 @@ public class Array {
 
 //		or
 //		arr[0]=20;
-//		arr[1]=10;
+//		arr[1]=10;s
 //		arr[2]=10;
 //		arr[3]=10;
 //		arr[4]=10;
